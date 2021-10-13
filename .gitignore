@@ -1,0 +1,9 @@
+.secret.json
+.venv
+.vscode
+
+__pycache__
+
+images
+monitored
+monitored_archive

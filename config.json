@@ -1,0 +1,7 @@
+{
+    "loop_minimum_period_s": 60.0,
+    "minimum_monitored_submissions": 20,
+    "submission_log_minimum_period_s": 300,
+    "submission_monitoring_duration_d": 2, 
+    "subreddit": "france"
+}
